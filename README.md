@@ -26,6 +26,7 @@ Previous 3 additional community driven languages are putting on hold while we ar
 |**Bulgarian**|bg|Bulgarian (bg-bg)|Community
 |**English (United Kingdom)**|en-GB|English (en-gb)|Community
 |**Hungarian**|hu|Hungarian (hu-hu)|Community
+|**Tamil**|ta|Tamil (ta-ta)|Community
 
 
 
